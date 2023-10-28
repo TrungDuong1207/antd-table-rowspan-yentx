@@ -1,0 +1,450 @@
+[
+    {
+        "destinationAccountName": "BIDV",
+        "destinationAccountType": "switchport",
+        "created_at": "2018-01-12",
+        "amount": 2000000,
+        "fee": 0,
+        "total_transaction": 100
+    },
+    {
+        "destinationAccountName": "SACOMBANK",
+        "destinationAccountType": "switchport",
+        "created_at": "2018-01-12",
+        "amount": 2000000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "BIDV",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2018-01-12",
+        "amount": 2000000,
+        "fee": 0,
+        "total_transaction": 100
+    },
+    {
+        "destinationAccountName": "BIDV",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-08-01T17:00:00.000Z",
+        "amount": 2000000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "BIDV",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-08-02T17:00:00.000Z",
+        "amount": 24200000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "BIDV",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-08-03T17:00:00.000Z",
+        "amount": 4100000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-08-06T17:00:00.000Z",
+        "amount": 6650000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "BIDV",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-08-06T17:00:00.000Z",
+        "amount": 1000000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-08-07T17:00:00.000Z",
+        "amount": 10950000,
+        "fee": 5400,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "BIDV",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-08-07T17:00:00.000Z",
+        "amount": 15205000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-08-08T17:00:00.000Z",
+        "amount": 7050000,
+        "fee": 33000,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "BIDV",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-08-08T17:00:00.000Z",
+        "amount": 8200001,
+        "fee": 3000,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "BIDV",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-08-09T17:00:00.000Z",
+        "amount": 6000000,
+        "fee": 14000,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-08-09T17:00:00.000Z",
+        "amount": 1500000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-08-10T17:00:00.000Z",
+        "amount": 1200000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "BIDV",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-08-10T17:00:00.000Z",
+        "amount": 3000000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-08-14T17:00:00.000Z",
+        "amount": 50000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-08-27T17:00:00.000Z",
+        "amount": 300000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-08-28T17:00:00.000Z",
+        "amount": 50000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "BIDV",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-08-28T17:00:00.000Z",
+        "amount": 3029500,
+        "fee": 7295,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-08-31T17:00:00.000Z",
+        "amount": 450000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-09-03T17:00:00.000Z",
+        "amount": 400000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-09-04T17:00:00.000Z",
+        "amount": 2700000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-09-05T17:00:00.000Z",
+        "amount": 100000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-09-10T17:00:00.000Z",
+        "amount": 6337001,
+        "fee": 1500,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-09-11T17:00:00.000Z",
+        "amount": 4273456,
+        "fee": 220000,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-09-12T17:00:00.000Z",
+        "amount": 29261111,
+        "fee": 350000,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-09-13T17:00:00.000Z",
+        "amount": 5300000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-09-14T17:00:00.000Z",
+        "amount": 9050000,
+        "fee": 110000,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-09-15T17:00:00.000Z",
+        "amount": 42800000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-09-18T17:00:00.000Z",
+        "amount": 300000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "BIDV",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-09-18T17:00:00.000Z",
+        "amount": 4400000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "BIDV",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-09-19T17:00:00.000Z",
+        "amount": 18643099,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-09-20T17:00:00.000Z",
+        "amount": 150000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-09-21T17:00:00.000Z",
+        "amount": 1150000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "BIDV",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-09-24T17:00:00.000Z",
+        "amount": 4423000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-09-24T17:00:00.000Z",
+        "amount": 250000,
+        "fee": 0,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "MB",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-09-25T17:00:00.000Z",
+        "amount": 555000,
+        "fee": 6000,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "BIDV",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-09-26T17:00:00.000Z",
+        "amount": 18685940,
+        "fee": 31500,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "BIDV",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-09-28T17:00:00.000Z",
+        "amount": 23008940,
+        "fee": 40500,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "BIDV",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-10-01T17:00:00.000Z",
+        "amount": 21263840,
+        "fee": 46560,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "MB",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-10-01T17:00:00.000Z",
+        "amount": 450000,
+        "fee": 4500,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "BIDV",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-10-02T17:00:00.000Z",
+        "amount": 12777680,
+        "fee": 22500,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-10-02T17:00:00.000Z",
+        "amount": 5000000,
+        "fee": 4500,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "BIDV",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-10-03T17:00:00.000Z",
+        "amount": 29288810,
+        "fee": 54000,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "BIDV",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-10-04T17:00:00.000Z",
+        "amount": 19219320,
+        "fee": 88500,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "BIDV",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-10-05T17:00:00.000Z",
+        "amount": 3329970,
+        "fee": 13000,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "BIDV",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-10-08T17:00:00.000Z",
+        "amount": 1336220,
+        "fee": 4500,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "MB",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-10-10T17:00:00.000Z",
+        "amount": 450000,
+        "fee": 4500,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-10-12T17:00:00.000Z",
+        "amount": 200000,
+        "fee": 6000,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-10-16T17:00:00.000Z",
+        "amount": 2000000,
+        "fee": 9000,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "MB",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-10-17T17:00:00.000Z",
+        "amount": 450000,
+        "fee": 4500,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-10-17T17:00:00.000Z",
+        "amount": 2000000,
+        "fee": 4500,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-10-18T17:00:00.000Z",
+        "amount": 50000,
+        "fee": 1500,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "created_at": "2023-10-19T17:00:00.000Z",
+        "amount": 300000,
+        "fee": 6000,
+        "total_transaction": 3
+    },
+    {
+        "destinationAccountName": "MB",
+        "destinationAccountType": "switchport",
+        "created_at": "2023-10-19T17:00:00.000Z",
+        "amount": 40000,
+        "fee": 1500,
+        "total_transaction": 3
+    }
+]
