@@ -1,0 +1,79 @@
+[
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "createdAt": "2023-10-26",
+        "amount": 1000000,
+        "fee": 4500,
+        "totalTransaction": 1,
+        "amountTotal": 1000000,
+        "transactionTotal": 1,
+        "loadValueSameMethod": 1000000
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "createdAt": "2023-10-25",
+        "amount": 50000,
+        "fee": 1500,
+        "totalTransaction": 1,
+        "amountTotal": 50000,
+        "transactionTotal": 1,
+        "loadValueSameMethod": 50000
+    },
+    {
+        "destinationAccountName": "MB",
+        "destinationAccountType": "LINKED_BANK",
+        "createdAt": "2023-10-19",
+        "amount": 40000,
+        "fee": 1500,
+        "totalTransaction": 1,
+        "amountTotal": 1040000,
+        "transactionTotal": 16,
+        "loadValueSameMethod": 1040000
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "createdAt": "2023-10-19",
+        "amount": 1000000,
+        "fee": 25000,
+        "totalTransaction": 15,
+        "amountTotal": 1040000,
+        "transactionTotal": 16,
+        "loadValueSameMethod": 1040000
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "createdAt": "2023-10-18",
+        "amount": 50000,
+        "fee": 1500,
+        "totalTransaction": 1,
+        "amountTotal": 50000,
+        "transactionTotal": 1,
+        "loadValueSameMethod": 50000
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "createdAt": "2023-10-17",
+        "amount": 2000000,
+        "fee": 4500,
+        "totalTransaction": 1,
+        "amountTotal": 2450000,
+        "transactionTotal": 2,
+        "loadValueSameMethod": 2450000
+    },
+    {
+        "destinationAccountName": "MB",
+        "destinationAccountType": "LINKED_BANK",
+        "createdAt": "2023-10-17",
+        "amount": 450000,
+        "fee": 4500,
+        "totalTransaction": 1,
+        "amountTotal": 2450000,
+        "transactionTotal": 2,
+        "loadValueSameMethod": 2450000
+    }
+]
