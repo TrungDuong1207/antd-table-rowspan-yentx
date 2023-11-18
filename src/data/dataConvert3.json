@@ -75,5 +75,71 @@
         "amountTotal": 2450000,
         "transactionTotal": 2,
         "loadValueSameMethod": 2450000
+    },
+    {
+        "destinationAccountName": "MB",
+        "destinationAccountType": "LINKED_BANK",
+        "createdAt": "2023-10-16",
+        "amount": 40000,
+        "fee": 1500,
+        "totalTransaction": 1,
+        "amountTotal": 1040000,
+        "transactionTotal": 16,
+        "loadValueSameMethod": 1040000
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "createdAt": "2023-10-16",
+        "amount": 1000000,
+        "fee": 25000,
+        "totalTransaction": 15,
+        "amountTotal": 1040000,
+        "transactionTotal": 16,
+        "loadValueSameMethod": 1040000
+    },
+    {
+        "destinationAccountName": "MB",
+        "destinationAccountType": "LINKED_BANK",
+        "createdAt": "2023-10-15",
+        "amount": 40000,
+        "fee": 1500,
+        "totalTransaction": 1,
+        "amountTotal": 1040000,
+        "transactionTotal": 16,
+        "loadValueSameMethod": 1040000
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "createdAt": "2023-10-15",
+        "amount": 1000000,
+        "fee": 25000,
+        "totalTransaction": 15,
+        "amountTotal": 1040000,
+        "transactionTotal": 16,
+        "loadValueSameMethod": 1040000
+    },
+    {
+        "destinationAccountName": "MB",
+        "destinationAccountType": "LINKED_BANK",
+        "createdAt": "2023-10-14",
+        "amount": 40000,
+        "fee": 1500,
+        "totalTransaction": 1,
+        "amountTotal": 1040000,
+        "transactionTotal": 16,
+        "loadValueSameMethod": 1040000
+    },
+    {
+        "destinationAccountName": "NAPAS",
+        "destinationAccountType": "LINKED_BANK",
+        "createdAt": "2023-10-14",
+        "amount": 1000000,
+        "fee": 25000,
+        "totalTransaction": 15,
+        "amountTotal": 1040000,
+        "transactionTotal": 16,
+        "loadValueSameMethod": 1040000
     }
 ]

@@ -1,3 +1,16 @@
+/*
+    {
+        amount: 1000000
+        amountTotal: 1000000
+        createdAt: "10/27/2023"
+        destinationAccountName: "NAPAS"
+        destinationAccountType: "LINKED_BANK"
+        fee: 4500
+        loadValueSameMethod: 1000000
+        totalTransaction: 1
+        transactionTotal: 1
+    }
+*/
 export const convertData = (transactions) => {
     const dailyTotals = {};
 

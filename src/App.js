@@ -1,4 +1,4 @@
-import { Table } from 'antd';
+import { Pagination, Table } from 'antd';
 import React, { useEffect, useState } from 'react';
 import './App.css';
 import { convertData } from './help/convert';
@@ -15,9 +15,26 @@ console.log({ dataConvert });
 
 function App() {
     const [processedRecords, setProcessedRecords] = useState(new Map());
+    const [groupedData, setGroupedData] = useState([]);
+    const [currentPage, setCurrentPage] = useState(1);
 
     useEffect(() => {
         setProcessedRecords(new Map());
+    }, []);
+
+    useEffect(() => {
+        const grouped = dataConvert.reduce((result, item) => {
+            const date = item.createdAt;
+            result[date] = result[date] || [];
+            result[date].push(item);
+            return result;
+        }, {});
+
+        const groupedArray = Object.keys(grouped).map(date => ({
+            date,
+            items: grouped[date],
+        }));
+        setGroupedData(groupedArray);
     }, []);
 
     const columns = [
@@ -155,9 +172,28 @@ function App() {
             ]
         }
     ]
+
+    const itemsPerPage = 10;
+    const startIdx = (currentPage - 1) * itemsPerPage;
+    const endIdx = startIdx + itemsPerPage;
+    const paginatedData = groupedData.slice(startIdx, endIdx);
+
+    const handlePageChange = (page, pageSize) => {
+        setCurrentPage(page);
+    };
     return (
         <div className="App">
-            <Table columns={columns} dataSource={dataConvert} />
+            <Table
+                columns={columns}
+                dataSource={paginatedData.flatMap(group => group.items)}
+                pagination={false}
+            />
+            <Pagination
+                current={currentPage}
+                total={groupedData.length}
+                showSizeChanger={false}
+                onChange={handlePageChange}
+            />
         </div>
     );
 }
