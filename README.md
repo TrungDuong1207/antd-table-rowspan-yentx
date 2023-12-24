@@ -1,4 +1,6 @@
 giải thích đoạn này:
+
+```bash
 useEffect(() => {
         const grouped = dataConvert.reduce((result, item) => {
             const date = item.createdAt;
@@ -12,10 +14,15 @@ useEffect(() => {
         }));
         setGroupedData(groupedArray);
     }, []);
+```
+
+---
+
 const grouped = dataConvert.reduce((result, item) => {...}): Ở đây, dataConvert được duyệt qua bằng phương thức reduce. Mục đích của phần này là nhóm dữ liệu theo trường createdAt. Nếu có nhiều bản ghi có cùng createdAt, chúng sẽ được nhóm lại thành một mảng trong result[date]. result: Đây là giá trị tích lũy trong quá trình thực hiện lặp
 
 const groupedArray = Object.keys(grouped).map(date => ({...}));: Sau khi nhóm dữ liệu xong, chúng ta chuyển từ cấu trúc object sang một mảng. Object.keys(grouped) trả về một mảng chứa tất cả các khóa (trong trường hợp này là các ngày) trong object grouped. Tiếp theo, với mỗi khóa (ngày), chúng ta tạo một đối tượng mới với thuộc tính date là ngày đó và items là mảng các bản ghi tương ứng với ngày đó.
----------------------------
+
+```bash
 {
     "grouped": {
         "10/27/2023": [
@@ -54,7 +61,7 @@ const groupedArray = Object.keys(grouped).map(date => ({...}));: Sau khi nhóm d
                 "transactionTotal": 16,
                 "loadValueSameMethod": 1040000
             }
-        ]      
+        ]
     }
 }
 
@@ -105,6 +112,4 @@ const groupedArray = Object.keys(grouped).map(date => ({...}));: Sau khi nhóm d
         }
     ]
 }
----------------------------
-
-
+```
